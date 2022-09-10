@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajyalakshmi Perla
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Power BI,Tableau,R SQL 
+- 🌱 I’m currently learning Power BI,Tableau,R,SQL,Python 
 - 📫 How to reach me :rajyalakshmiperla10@gmail.com
 
 <!---
